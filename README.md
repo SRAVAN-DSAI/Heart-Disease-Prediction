@@ -21,23 +21,36 @@ Data Description
 The dataset used in this project contains the following features:
 
 age: Age in years
+
 sex: Sex (1 = male, 0 = female)
+
 cp: Chest pain type
+
 trestbps: Resting blood pressure
+
 chol: Serum cholesterol
+
 fbs: Fasting blood sugar (> 120 mg/dl, 1 = true, 0 = false)
+
 restecg: Resting electrocardiographic results
+
 thalach: Maximum heart rate achieved
+
 exang: Exercise induced angina (1 = yes, 0 = no)
+
 oldpeak: Depression induced by exercise relative to rest
+
 slope: Slope of the peak exercise ST segment
+
 ca: Number of major vessels colored by fluoroscopy
+
 thal: Thalassemia (3 = normal, 6 = fixed defect, 7 = reversible defect)
+
 target: Presence or absence of heart disease (1 = presence, 0 = absence)
+
 Steps to Reproduce
 1. Install Dependencies
-To run the project, first install the required Python libraries. You can find a list of dependencies in the requirements.txt file.
-
+To run the project, first install the required Python libraries.
 2. Download the Data
 The dataset is automatically downloaded from the UCI Machine Learning Repository.
 
